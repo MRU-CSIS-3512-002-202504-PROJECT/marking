@@ -58,7 +58,7 @@ This bundle ensures the admin can log in, navigate, and view data.
 
 ### 50-Level Bundle: Dynamic Admin
 
-This bundle adds data manipulation to the admin portal and establishes the core functionality of the public app.
+This bundle adds data manipulation to the admin portal.
 
 - [ ] All requirements in the **40-Level Bundle** are met.
 - [ ] All checklist items under "Part 2 -> Administrative Portal -> **Dashboard Page**" are checked and verified.
@@ -90,7 +90,7 @@ This bundle represents a complete project that meets all requirements.
 
 If you have completed the 80-Level Bundle, I will add up to 20% in additional marks as follows.
 
-I realize that a lot of these marks are subjective and/or the requirements or point allocations are vague. This is partly by intent and partly because that's the nature of this work.
+_I realize that a lot of these marks are subjective and/or the requirements or point allocations are vague. This is partly by intent and partly because that's the nature of this work._
 
 ### Dev Journal (up to 6%)
 
