@@ -31,7 +31,7 @@ To encourage learning from mistakes, and reduce stress (at least a bit), you are
 ## ✅ Honesty Clause
 
 Your self-assessment (i.e. submission checklist) must be accurate. A bundle will be marked **Unsatisfactory** if:
-1. The instructor finds more than one checked item to be non-functional, even if they were noted by you in the "Known Issues" section of the checklist, **OR**
+1. The instructor finds more than one checked item to be non-functional, and these issues were not disclosed in the 'Known Issues' section. **OR**
 2. Any single checked item is non-functional and was not noted by you in the "Known Issues" section of the checklist.
 
 ---
@@ -112,6 +112,7 @@ I will mark UI/UX with these questions in mind:
 - Is it made clear to the user visually that sorting/adding/deletion has occurred?
 - Are icons used to make pages less text heavy?
 - Do pages contain examples of design that are simply "phoned in" - that is, no effort whatsoever was taken with the visual design. (Some examples of goodish and "phoned in" design can be seen in [these examples from last year](https://drive.google.com/drive/folders/17XerNFyw8n-DIIeq2BMSV606Z0HHH9ZP?usp=sharing). Can you tell which are examples of "phoned in" work?)
+    - 'Phoned in' work is characterized by a lack of effort, such as using unstyled, default HTML elements or creating layouts that are misaligned and ignore the specified viewport widths.
 - Is it reasonably obvious to figure out how to use the site - even to someone not familiar w/ The Project? 
 - Are there any truly broken things going on? (Things like freezing, links that go to incorrect or non-existent pages, buttons that seem to do nothing, and other such shenanigans.) 
 

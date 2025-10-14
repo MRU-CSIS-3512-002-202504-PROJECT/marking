@@ -40,10 +40,13 @@ Any entry marked as **[DEALBREAKER]** must be checked for your Project submissio
 - [ ] I have used event delegation for handling clicks on dynamic elements (e.g., removing a film).
 - [ ] I have used Promise chaining to consume at least one API endpoint.
 - [ ] I have used `async/await` to consume at least one API endpoint.
+- [ ] I have implemented caching of watchlist data using Web API's localStorage.
 
 ---
 
 ## Part 2: Page Functionality Checks
+
+The bracketed numbers refer to functionalities listed in the Requirements docs. For example, for an entry under the Administrative Portal section, `[2]` refers to functionality #2 in the Administrative Portal Requirements document: "I want to log in to the administrative portal with an email and a password."
 
 ### Administrative Portal (PHP)
 
