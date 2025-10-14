@@ -1,4 +1,4 @@
-# Project Marking Scheme: Checklist-Verified Tiered Bundles
+# Project Marking Scheme (Fall 2025)
 
 **Student Name:** _________________________
 
