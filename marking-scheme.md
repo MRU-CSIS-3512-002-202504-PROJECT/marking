@@ -15,7 +15,7 @@ If you obtain the highest level bundle (which works out to be an A-), you have t
 
 The checklist contains items marked as a **[DEALBREAKER]**. These represent the non-negotiable, foundational requirements of the project.
 
-- If the instructor finds that **any** [DEALBREAKER] item is non-functional, the Project will receive an F.
+If the instructor finds that **any** checked [DEALBREAKER] item is actually non-functional, they will stop marking immediately.
 
 ---
 
@@ -23,8 +23,8 @@ The checklist contains items marked as a **[DEALBREAKER]**. These represent the 
 
 To encourage learning from mistakes, and reduce stress (at least a bit), you are granted **one "revision token"** for the Project.
 
-- Your token can be used to resubmit a bundle that was marked "Unsatisfactory" within 48 hours of your instructor you giving you feedback.
-- Tokens cannot be used for an initial submission that fails a [DEALBREAKER] check.
+Your token can be used to resubmit a bundle that was marked "Unsatisfactory" within 48 hours of your instructor you giving you feedback.
+
 
 ---
 
@@ -40,7 +40,7 @@ Your self-assessment (i.e. submission checklist) must be accurate. A bundle will
 
 This bundle covers the non-negotiable technical requirements for the project to be gradable.
 
-- [ ] All checklist items marked **[DEALBREAKER]** under "Part 1: Underlying Code & Submission Checks" are checked and verified.
+- [ ] All checklist items marked **[DEALBREAKER]** under "Part 1: Underlying Code & Submission Checks -> **Administrative Portal**" are checked and verified.
 - [ ] You have submitted a single SQL script in `/config/initdb` that creates and populates all necessary tables with at least 100 records each.
 - [ ] Your instructor believes you have made a "reasonable attempt" at completing at least the Admin Portal Site. He'll use his best judgement and your Git history to help him determine this if necessary.
 - [ ] The `submission-checklist.md` is submitted and accurately completed. (See Honesty Clause above.)
@@ -59,6 +59,7 @@ This bundle ensures the admin can log in, navigate, and view data.
 This bundle adds data manipulation to the admin portal.
 
 - [ ] All requirements in the **40-Level Bundle** are met.
+- [ ] All checklist items marked **[DEALBREAKER]** under "Part 1: Underlying Code & Submission Checks -> **Public-Facing App**" are checked and verified.
 - [ ] All checklist items under "Part 2 -> Administrative Portal -> **Dashboard Page**" are checked and verified.
 - [ ] All checklist items under "Part 2 -> Administrative Portal -> **Customer Data Page**" are checked and verified.
 - [ ] All checklist items under "Part 2 -> Administrative Portal -> **Movie Listings Page**" are checked and verified.
