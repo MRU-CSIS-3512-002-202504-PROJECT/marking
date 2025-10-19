@@ -1,6 +1,6 @@
 # The Project: Submission Checklist
 
-**Instructions:** Before submitting your project, go through this entire checklist in order. Test each feature and place a check (`x`) in the box only if you can confirm it works exactly as described. Submitting an accurately completed checklist is a part of the project's professionalism requirements.
+**Instructions:** Before submitting your project, go through this entire checklist in order. Test each feature and place a check (`x`) in the box only if you can confirm it works exactly as described. If a feature is buggy, note that by putting a `B` in the box instead AND note it in the `Known Bugs` section at the bottome of this document. Submitting an accurately completed checklist is a part of the project's professionalism requirements.
 
 **Student Name:** _________________________
 
@@ -120,9 +120,9 @@ The bracketed numbers refer to functionalities listed in the Requirements docs. 
 
 ---
 
-### Known Issues / Incomplete Features
+### Known Bugs
 
-*(Use this space to list any features you know are not working correctly. Honesty here is a key part of the professionalism grade.)*
+*(Use this space to list any features you know are not working correctly. Honesty is a key part of professionalism.)*
 
 ________________________________________________________________________________
 ________________________________________________________________________________
