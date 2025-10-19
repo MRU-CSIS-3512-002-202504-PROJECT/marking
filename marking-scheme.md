@@ -30,9 +30,7 @@ To encourage learning from mistakes, and reduce stress (at least a bit), you are
 
 ## ✅ Honesty Clause
 
-Your self-assessment (i.e. submission checklist) must be accurate. A bundle will be marked **Unsatisfactory** if:
-1. The instructor finds more than one checked item to be non-functional, and these issues were not disclosed in the 'Known Issues' section. **OR**
-2. Any single checked item is non-functional and was not noted by you in the "Known Issues" section of the checklist.
+Your self-assessment (i.e. submission checklist) must be accurate. A bundle will be marked **Unsatisfactory** if any single checked item is not actually complete.
 
 ---
 
@@ -45,7 +43,7 @@ This bundle covers the non-negotiable technical requirements for the project to 
 - [ ] All checklist items marked **[DEALBREAKER]** under "Part 1: Underlying Code & Submission Checks" are checked and verified.
 - [ ] You have submitted a single SQL script in `/config/initdb` that creates and populates all necessary tables with at least 100 records each.
 - [ ] Your instructor believes you have made a "reasonable attempt" at completing at least the Admin Portal Site. He'll use his best judgement and your Git history to help him determine this if necessary.
-- [ ] The `submission-checklist.md` is submitted and completed with a reasonable degree of accuracy. (See Honesty Clause above.)
+- [ ] The `submission-checklist.md` is submitted and accurately completed. (See Honesty Clause above.)
 
 ### 40-Level Bundle: Core Administrative Functionality
 
