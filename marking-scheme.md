@@ -96,7 +96,7 @@ _I realize that a lot of these marks are subjective and/or the requirements or p
 - [ ] 6: All entries, or all but one entries, are completed satisfactorily.
 - [ ] 3: Two entries are missed, but the remaining entries are completed satisfactorily.
 - [ ] 1: Three entries are missed, but the remaining entries are completed satisfactorily.
-- [ ] 0: Four or more entries are missed, but the remaining entries are completed satisfactorily.
+- [ ] 0: Four or more entries are missed.
 
 If in my judgement your journal entries as a whole over the span of the semester show an honest effort, that will be considered satisfactory.
 
