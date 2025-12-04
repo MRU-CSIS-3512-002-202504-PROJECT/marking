@@ -70,7 +70,7 @@ This bundle establishes the core functionality of the public app.
 
 - [ ] All requirements in the **50-Level Bundle** are met.
 - [ ] All checklist items marked **[DEALBREAKER]** under "Part 1: Underlying Code & Submission Checks -> **Public-Facing App**" are checked and verified.
-    - [2025-12-04] _Moved from the `50-Level Bundle` because it shouldn't have been there. Why didn't anyone call me on this?_ 😅 
+    - [**updated 2025-12-04**] _Moved from the `50-Level Bundle` because it shouldn't have been there. Why didn't anyone call me on this?_ 😅 
 - [ ] All checklist items under "Part 2 -> Public-Facing App -> **Login Page**" are checked and verified.
 - [ ] All checklist items under "Part 2 -> Public-Facing App -> **Personal Dashboard Page**" are checked and verified.
 
@@ -80,7 +80,7 @@ This bundle establishes the core functionality of the public app.
 This bundle represents a complete project that meets all requirements.
 
 - [ ] All requirements in the **70-Level Bundle** are met.
-- [ ] [2025-12-04] Movie runtimes are now showing in the watchlist. 
+- [ ] [**updated 2025-12-04**] Movie runtimes are now showing in the watchlist. 
 - [ ] All checklist items under "Part 2 -> Public-Facing App -> **Find a Buddy Page**" are checked and verified.
 - [ ] All non-dealbreaker items in "Part 1" of the checklist are checked and verified.
 
