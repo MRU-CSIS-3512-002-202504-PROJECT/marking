@@ -104,7 +104,7 @@ The bracketed numbers refer to functionalities listed in the Requirements docs. 
 - [ ] There is an obvious way to logout here; when I do, I'm returned to a reset login page. [8]
 - [ ] My user information (name, email, phone, preferred theatres, and customer type) is correctly displayed here. [9]
 - [ ] My watchlist correctly displays each film's title, runtime in minutes, and the specific preferred theatres playing it. [10]
-    - [2025-12-04] Movie runtimes are now only required for the 80-Level Bundle.
+    - [**updated 2025-12-04**] Movie runtimes are now only required for the 80-Level Bundle.
 - [ ] For films on my watchlist that are not playing at any of my preferred theatres, this is clearly indicated. [10]
 - [ ] I can remove a film from the watchlist, and it disappears without a page reload. [11]
 - [ ] The "add a film" feature only shows the type-ahead dropdown after I have typed at least 3 characters (case-insensitive), and it adds the selected film to my watchlist without a page reload. [12]
