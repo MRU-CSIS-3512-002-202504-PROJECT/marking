@@ -42,6 +42,7 @@ This bundle covers the non-negotiable technical requirements for the project to 
 
 - [ ] All checklist items marked **[DEALBREAKER]** under "Part 1: Underlying Code & Submission Checks -> **Administrative Portal**" are checked and verified.
 - [ ] You have submitted a single SQL script in `/config/initdb` that creates and populates all necessary tables with at least 100 records each.
+    - [2025-12-05] _You don't have to make 100 administrators. The word `necessary` should have been clarified more._
 - [ ] Your instructor believes you have made a "reasonable attempt" at completing at least the Admin Portal Site. He'll use his best judgement and your Git history to help him determine this if necessary.
 - [ ] The `submission-checklist.md` is submitted and accurately completed. (See Honesty Clause above.)
 
