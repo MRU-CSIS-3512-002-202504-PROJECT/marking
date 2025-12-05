@@ -100,7 +100,11 @@ The bracketed numbers refer to functionalities listed in the Requirements docs. 
 - [ ] If I enter an incorrect OTP in the modal, a clear error message is shown within the modal, and I can try again. [6]
 - [ ] When I enter the correct OTP (the string `OTP`, case-insensitive), I am taken to the Personal Dashboard page. [5] 
 
-#### Personal Dashboard Page
+#### Personal Dashboard Page (Reduced)
+- [ ] There is an obvious way to logout here; when I do, I'm returned to a reset login page. [8]
+- [ ] My user information (name, email, phone, preferred theatres, and customer type) is correctly displayed here. [9]
+
+#### Personal Dashboard Page (Full)
 - [ ] There is an obvious way to logout here; when I do, I'm returned to a reset login page. [8]
 - [ ] My user information (name, email, phone, preferred theatres, and customer type) is correctly displayed here. [9]
 - [ ] My watchlist correctly displays each film's title, runtime in minutes, and the specific preferred theatres playing it. [10]

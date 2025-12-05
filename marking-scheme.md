@@ -63,16 +63,23 @@ This bundle adds data manipulation to the admin portal.
 - [ ] All checklist items under "Part 2 -> Administrative Portal -> **Customer Data Page**" are checked and verified.
 - [ ] All checklist items under "Part 2 -> Administrative Portal -> **Movie Listings Page**" are checked and verified.
 
+### 60-Level Bundle: Reduced Public App Core
 
-### 70-Level Bundle: Public App Core
-
-This bundle establishes the core functionality of the public app.
+This is a new bundle introduced 2025-12-04 due to...concerns.
 
 - [ ] All requirements in the **50-Level Bundle** are met.
 - [ ] All checklist items marked **[DEALBREAKER]** under "Part 1: Underlying Code & Submission Checks -> **Public-Facing App**" are checked and verified.
     - [**updated 2025-12-04**] _Moved from the `50-Level Bundle` because it shouldn't have been there. Why didn't anyone call me on this?_ 😅 
 - [ ] All checklist items under "Part 2 -> Public-Facing App -> **Login Page**" are checked and verified.
-- [ ] All checklist items under "Part 2 -> Public-Facing App -> **Personal Dashboard Page**" are checked and verified.
+- [ ] All checklist items under "Part 2 -> Public-Facing App -> **Personal Dashboard Page (Reduced)**" are checked and verified.
+
+### 70-Level Bundle: Public App Core
+
+This bundle establishes the core functionality of the public app.
+
+- [ ] All requirements in the **60-Level Bundle** are met.
+- [ ] All checklist items under "Part 2 -> Public-Facing App -> **Login Page**" are checked and verified.
+- [ ] All checklist items under "Part 2 -> Public-Facing App -> **Personal Dashboard Page (Full)**" are checked and verified.
 
 
 ### 80-Level Bundle: Full-Featured Application & Professional Polish
