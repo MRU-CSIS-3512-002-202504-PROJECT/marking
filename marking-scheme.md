@@ -70,7 +70,6 @@ This is a new bundle introduced 2025-12-04 due to...concerns.
 - [ ] All requirements in the **50-Level Bundle** are met.
 - [ ] All checklist items marked **[DEALBREAKER]** under "Part 1: Underlying Code & Submission Checks -> **Public-Facing App**" are checked and verified.
     - [**updated 2025-12-04**] _Moved from the `50-Level Bundle` because it shouldn't have been there. Why didn't anyone call me on this?_ 😅 
-- [ ] All checklist items under "Part 2 -> Public-Facing App -> **Login Page**" are checked and verified.
 - [ ] All checklist items under "Part 2 -> Public-Facing App -> **Personal Dashboard Page (Reduced)**" are checked and verified.
 
 ### 70-Level Bundle: Public App Core
@@ -78,7 +77,6 @@ This is a new bundle introduced 2025-12-04 due to...concerns.
 This bundle establishes the core functionality of the public app.
 
 - [ ] All requirements in the **60-Level Bundle** are met.
-- [ ] All checklist items under "Part 2 -> Public-Facing App -> **Login Page**" are checked and verified.
 - [ ] All checklist items under "Part 2 -> Public-Facing App -> **Personal Dashboard Page (Full)**" are checked and verified.
 
 
